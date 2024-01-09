@@ -1,7 +1,5 @@
 <template>
-    <TheDrawer />
-    <TheAppBar />
-    <v-main>
-        Index
-    </v-main>
+    <v-container>
+        <p>Index</p>
+    </v-container>
 </template>
